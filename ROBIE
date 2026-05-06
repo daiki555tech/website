@@ -246,4 +246,4 @@ document.querySelectorAll('.ripple').forEach(el => {
 </body>
 </html>
 
-//profilec:\Users\User\Desktop\Image.png\81bf727c-9bbf-4505-b969-158280ffbcb2.jpg
+//profile:"c:\Users\User\Desktop\Image.png\81bf727c-9bbf-4505-b969-158280ffbcb2.jpg"
