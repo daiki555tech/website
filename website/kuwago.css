@@ -717,13 +717,3 @@ body {
         }
     }
 }
-
-.nav-link.active {
-    color: #E2DC71;
-
-    text-shadow:
-        0 0 5px rgba(255,255,180,0.7),
-        0 0 10px rgba(255,255,180,0.4);
-
-    transform: translateY(-2px);
-}
